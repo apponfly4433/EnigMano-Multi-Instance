@@ -70,5 +70,5 @@ jobs:
         shell: pwsh
         run: |
           Write-Host "✅ EnigMano Instance $env:INSTANCE_ID completed execution."
-          Write-Host "🔋 Powered by: SHAHZAIB-YT"
+          Write-Host "🔋 Powered by: Mahmud Tech YT"
           Write-Host "🏁 EnigMano deployment executed with tactical precision."
